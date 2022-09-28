@@ -24,4 +24,4 @@ Web developer
 <a href="https://www.linkedin.com/in/mirzakosimov-dev"><img src="https://i.ibb.co/8xYC5qP/in.png" alt="linkedin" width="25px" /></a>&nbsp;
 <a href="https://www.facebook.com/qudratillo.mirzakosimov"><img src="https://i.ibb.co/2Pkb0d1/fb.png" alt="facebook" width="25px" /></a>&nbsp;
 <a href="mailto:mirzakosimov.dev@gmail.com"><img src="https://i.ibb.co/VYX9jYq/gmail.png" alt="gmail" width="25px" /></a>&nbsp;
-<a href="https://mirzakosimov.netlify.app/"><img src="https://i.ibb.co/Ht3dDpw/web.png" alt="website" width="25px" /></a>&nbsp;
+<a href="https://mirzakosimov.uz/"><img src="https://i.ibb.co/Ht3dDpw/web.png" alt="website" width="25px" /></a>&nbsp;
